@@ -9,7 +9,7 @@ import UIKit
 
 class DayForcastTableViewCell: UITableViewCell {
 
-    @IBOutlet weak var dayNameLabel: UILabel!
+    @IBOutlet weak var dayValidDateLabel: UILabel!
     @IBOutlet weak var iconImageView: UIImageView!
     @IBOutlet weak var forcastedHighLabel: UILabel!
     
